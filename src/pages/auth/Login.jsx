@@ -183,7 +183,7 @@ const Login = () => {
             </div>
             <Button
               type="submit"
-              className="py-3 mt-5 text-sm bg-[#04CAFB] hover:bg-cyan-700 transition-all duration-500"
+              className="py-3 my-5 text-sm bg-[#04CAFB] hover:bg-cyan-700 transition-all duration-500"
               fullWidth
             >
               Log In
