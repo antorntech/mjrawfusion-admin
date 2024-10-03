@@ -9,7 +9,7 @@ import Products from "../pages/products/Products";
 import AddProduct from "../pages/products/AddProduct";
 import EditProduct from "../pages/products/EditProduct";
 import Categories from "../pages/category/Categories";
-import Banner from "../pages/Banner/Banner";
+import Banner from "../pages/banner/Banner";
 import FeatureServices from "../pages/featureservice/FeatureServices";
 import Services from "../pages/services/Services";
 import Clients from "../pages/clients/Clients";
