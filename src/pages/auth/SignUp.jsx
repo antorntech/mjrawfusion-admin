@@ -249,7 +249,7 @@ const SignUp = () => {
           </Link>
         </Typography>
         <p className="text-gray-600 text-center text-sm">
-          © MJRF Crafted with by ANTOR & SANTO
+          © MJRF Crafted with by PeopleNTech
         </p>
       </div>
     </div>

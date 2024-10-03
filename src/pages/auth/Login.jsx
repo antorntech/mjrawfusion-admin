@@ -190,7 +190,7 @@ const Login = () => {
             </Button>
           </form>
         </div>
-        <div className="flex flex-col gap-3 items-center justify-center my-6">
+        {/* <div className="flex flex-col gap-3 items-center justify-center my-6">
           <div className="flex items-center">
             <p className="text-lg">Sign in with</p>
             <SocialLogin />
@@ -199,7 +199,7 @@ const Login = () => {
             <i class="fa-solid fa-lock mr-2"></i>
             <span>Forgot your password ?</span>
           </Link>
-        </div>
+        </div> */}
       </div>
       <div className="mt-6">
         <Typography
@@ -207,16 +207,16 @@ const Login = () => {
           color="black"
           className="mb-1 font-normal text-center"
         >
-          Don't have an account?{" "}
+          {/* Don't have an account?{" "}
           <Link
             to="/signup"
             className="text-[#04CAFB] hover:text-cyan-700 transition-all duration-500"
           >
             Sign Up
-          </Link>
+          </Link> */}
         </Typography>
         <p className="text-gray-600 text-center text-sm">
-          © MJRF Crafted with by ANTOR & SANTO
+          © MJRF Crafted with by PeopleNTech
         </p>
       </div>
     </div>
