@@ -28,7 +28,7 @@ const Home = () => {
             </div>
             <div className="flex flex-col lg:flex-row items-start justify-between">
               <div className="w-full lg:w-1/3 p-5 relative">
-                <div className="absolute -top-6 md:-top-12 left-5 w-14 h-14 md:w-20 md:h-20 p-1 rounded-full bg-white">
+                <div className="absolute -top-6 md:-top-12 left-5 w-14 h-14 md:w-20 md:h-20 rounded-full bg-white">
                   <img src="/img/avatar.png" alt="" className="w-full h-full" />
                 </div>
                 <div className="mt-5">
