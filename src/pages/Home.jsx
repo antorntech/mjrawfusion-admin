@@ -32,8 +32,8 @@ const Home = () => {
                   <img src="/img/avatar.png" alt="" className="w-full h-full" />
                 </div>
                 <div className="mt-5">
-                  <h2 className="text-lg font-semibold">John Doe</h2>
-                  <p className="text-sm">Web Developer</p>
+                  <h2 className="text-lg font-semibold">Maria Rahman</h2>
+                  <p className="text-sm">CEO, MJRAWFUSION</p>
                 </div>
               </div>
               <div className="w-full lg:w-2/3 px-5 pb-5 md:px-5 md:py-5">

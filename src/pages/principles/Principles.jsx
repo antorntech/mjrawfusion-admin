@@ -68,15 +68,17 @@ const Principles = () => {
             <div className="w-full grid grid-cols-1 md:grid-cols-2 gap-5">
               {principles.map((principle) => (
                 <Card className="mt-6 w-full">
-                  <CardHeader className="relative grid mt-4 h-40 rounded-md place-items-center">
+                  <CardBody>
                     <img
                       src={principle.image}
                       alt=""
-                      className="w-full h-full object-cover"
+                      className="w-40 h-40 mx-auto object-cover"
                     />
-                  </CardHeader>
-                  <CardBody>
-                    <Typography as="div" variant="h5">
+                    <Typography
+                      as="div"
+                      variant="h5"
+                      className="mt-4 text-center"
+                    >
                       {principle.name}
                     </Typography>
                   </CardBody>
